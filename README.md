@@ -9,8 +9,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-Premises Active Directory Within Azure VMs](https://github.com/TariqJerrodWilliams/Active-Directory)
   - [Network Security Groups (NSGs) And Inspecting Network Protocols](https://github.com/TariqJerrodWilliams/NSG)
-- Currently Learning Linux And Practicing Computer Assembly
-
 <h2>Connect With Me:</h2>
 
 [<img align="left" alt="Tariq J. Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
